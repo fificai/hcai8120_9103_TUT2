@@ -16,7 +16,7 @@ I believe adding these effects can boost my project's interactivity and visual a
 ![Pi Visualization](image/picture5.png)
 2. img.loadPixels() can help me achieve a Dot matrix effect. Each frame, it randomly selects a pixel from the original image, and then draws a point with the color information of that pixel
 [Link Text](https://happycoding.io/tutorials/p5js/images/pixel-painter)
-![Pixel Painter](image/picture6.png)
+![Pixel Painter](image/picture7.png)
 3. getFilterColor() can assist me in calculating new colors for each pixel based on the original colors, resulting in Pop Art with a quirky and bold color effect. 
 [Link Text](https://happycoding.io/tutorials/p5js/images/image-filter)
-![Image Filter](image/picture7.png)
+![Image Filter](image/picture6.png)
