@@ -18,5 +18,4 @@ I believe adding these effects can boost my project's interactivity and visual a
 ![Pixel Painter](image/picture6.png)
 3. getFilterColor() can assist me in calculating new colors for each pixel based on the original colors, resulting in Pop Art with a quirky and bold color effect. 
 [Link Text](https://happycoding.io/tutorials/p5js/images/image-filter)
-
 ![Image Filter](image/picture7.png)
